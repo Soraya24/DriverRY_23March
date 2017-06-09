@@ -33,8 +33,8 @@ public class MyConstant {
             "Lng_end", "Length"};
 
     private int portAnInt = 21;
-    private String urlGetPassengerWhereID = "http://swiftcodingthai.com/ry/get_passenger_where_id.php";
-    private String urlGetJobWhereID = "http://swiftcodingthai.com/ry/get_job_where_idPass_and_Status.php";
+    private String urlGetPassengerWhereID = "http://woodriverservice.com/Android/get_passenger_where_id.php";
+    private String urlGetJobWhereID = "http://woodriverservice.com/Android/get_job_where_idPass_and_Status.php";
     private String hostString = "ftp.swiftcodingthai.com";
     private String userFTPString = "ry@swiftcodingthai.com";
     private String passwordFTPString = "Abc12345";

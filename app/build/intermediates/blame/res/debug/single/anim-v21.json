@@ -1,26 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\masterUNG\\.android\\build-cache\\6c3a5d344a805fb5fd43b6c70790f4e004a44a30\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
-        "source": "C:\\Users\\masterUNG\\.android\\build-cache\\6c3a5d344a805fb5fd43b6c70790f4e004a44a30\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
-    },
-    {
-        "merged": "C:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\DriverRY_15March\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\masterUNG\\.android\\build-cache\\6c3a5d344a805fb5fd43b6c70790f4e004a44a30\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
-    },
-    {
         "merged": "C:\\Users\\DARK\\Desktop\\TheLastProject\\DriverRY_23March\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
-        "source": "C:\\Users\\DARK\\.android\\build-cache\\dc53d842da608b52c362aeabe1089e33c5ff81ac\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+        "source": "C:\\Users\\DARK\\.android\\build-cache\\bff068694d9bb5d7c2f30ab6744d632dcf821577\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
     },
     {
         "merged": "C:\\Users\\DARK\\Desktop\\TheLastProject\\DriverRY_23March\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\DARK\\.android\\build-cache\\dc53d842da608b52c362aeabe1089e33c5ff81ac\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "source": "C:\\Users\\DARK\\.android\\build-cache\\bff068694d9bb5d7c2f30ab6744d632dcf821577\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "C:\\Users\\DARK\\Desktop\\TheLastProject\\DriverRY_23March\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\DARK\\.android\\build-cache\\dc53d842da608b52c362aeabe1089e33c5ff81ac\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "source": "C:\\Users\\DARK\\.android\\build-cache\\bff068694d9bb5d7c2f30ab6744d632dcf821577\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     }
 ]
